@@ -1,0 +1,9 @@
+{
+  "name": "ST-Conflict-Scanner",
+  "display_name": "ST Conflict Scanner",
+  "version": "1.0.0",
+  "author": "RetiredHippie",
+  "description": "An on-board diagnostic tool that scans active extensions against a known database of conflicts and alerts the user.",
+  "minimum_client_version": "1.11.0",
+  "main": "index.js"
+}
